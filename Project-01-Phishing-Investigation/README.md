@@ -31,9 +31,27 @@ Checked for any high-risk or flagged sign-in events during the relevant timefram
 
 Verified whether any account changes or unusual activity occurred after the suspected phishing interaction
 ## Findings & Correlation
+The email was confirmed to be phishing based on the sender details and the behaviour of the embedded link
 
+There was no indication that the user interacted with the email or entered their credentials
+
+Review of sign-in activity did not show any unusual or unexpected authentication attempts after the email was received
+
+No account changes or other indicators of compromise were identified during the review period
 ## Response & Decision
+The phishing email was removed from the user’s mailbox
 
+The user was advised not to interact with similar emails going forward
+
+A password reset was not required as there were no signs of account compromise
+
+The account was monitored after the alert to ensure no delayed suspicious activity occurred
 ## Incident Closure
+The incident was closed after confirming there was no user interaction or follow-on account activity
+Reviewing phishing alerts quickly helps reduce the risk of credential compromise
 
+Confirming user interaction and sign-in activity is important before taking disruptive actions
+
+Clear communication with users helps prevent repeat incidents
+No further action was required beyond user awareness and monitoring
 ## Notes / Lessons Learned
