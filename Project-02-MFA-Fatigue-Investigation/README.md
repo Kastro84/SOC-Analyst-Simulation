@@ -36,9 +36,10 @@ Incident Severity: Low
 The incident was closed after confirming that the authentication activity did not indicate MFA fatigue or unauthorized access. No further suspicious behaviour was observed following the initial review, and the account remained stable during the monitoring period.
 
 ## Notes / Lessons Learned
-
+Repeated MFA prompts should be reviewed in context. When no compromise indicators are present, monitoring may be sufficient.
 
 ## Evidence Collected (Screenshots)
 
 
 ## What Would Have Changed the Outcome
+The response would have escalated if there had been evidence of successful sign-ins from unfamiliar locations or devices, repeated MFA approvals following failed attempts, elevated sign-in risk indicators, or account changes occurring after the authentication activity.
