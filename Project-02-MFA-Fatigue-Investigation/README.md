@@ -1,7 +1,7 @@
 # Project 2 – MFA Fatigue / Suspicious Authentication Investigation
 
 ## Scenario Overview
-
+Multiple authentication prompts were generated for a user account within a short period of time, prompting a review for potential MFA fatigue or unauthorized access attempts. The investigation focused on determining whether the activity reflected malicious behaviour or aligned with expected user authentication patterns.
 
 ## Environment & Evidence Context
 
