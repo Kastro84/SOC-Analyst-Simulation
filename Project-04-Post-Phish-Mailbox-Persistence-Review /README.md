@@ -30,5 +30,3 @@ The incident was closed after confirming there were no signs of mailbox persiste
 
 ## Lessons Learned
 Mailbox persistence checks are an effective follow-up after phishing-related incidents. Reviewing rules, forwarding, and permissions can quickly confirm whether an attacker attempted to maintain access beyond the initial email.
-
-## Evidence Collected (Screenshots)
